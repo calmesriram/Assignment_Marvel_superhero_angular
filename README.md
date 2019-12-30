@@ -11,4 +11,5 @@ step 4: there is dashboard which shows all the superhero with some details.then 
 super hero person then point your favorate super hero. there is button which is called know more.click know more to display full person details
 step 5: you can search by super hero's name to know more details also.
 
+just wait to load the screen
 if anything is not appeared on the screen just refresh the page 
