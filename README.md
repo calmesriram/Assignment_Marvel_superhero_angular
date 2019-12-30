@@ -12,4 +12,4 @@ super hero person then point your favorate super hero. there is button which is 
 step 5: you can search by super hero's name to know more details also.
  
 just wait to load the screen.
-if anything is not appeared on the screen just refresh the page 
+if anything is not appeared on the screen just refresh the page
